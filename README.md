@@ -28,5 +28,5 @@ I'm a **Software Engineering Graduate** and a **Full-Stack Developer** with a pa
 ![Brachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brachi2162&show_icons=true&theme=nord)
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/brachi-bsc](https://www.linkedin.com/in/brachi-bsc)
+- **LinkedIn:** [https://www.linkedin.com/in/brachi-wertheimer-388088365/](https://www.linkedin.com/in/brachi-wertheimer-388088365/)
 - **Email:** [brw2902@gmail.com](mailto:brw2902@gmail.com)
