@@ -1,6 +1,6 @@
 # Hi there, I'm Brachi Wertheimer! 👋
 
-I'm a **Software Engineering Graduate** and a **Full-Stack Developer** with a passion for building robust, scalable, and creative digital solutions. At 19, I bring a unique blend of deep low-level understanding and modern high-level development expertise.
+I'm a **Software Engineering Graduate** and a **Full-Stack Developer** with a passion for building robust, scalable, and creative digital solutions. At 20, I bring a unique blend of deep low-level understanding and modern high-level development expertise.
 
 ### 🚀 About Me
 - 🎓 **Software Engineering Graduate:** Strong academic and practical foundation in engineering principles.
